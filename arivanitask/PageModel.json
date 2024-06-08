@@ -1,0 +1,18 @@
+{
+  "AppSettings": {
+    "BaseUrl": "https://localhost:44380/home/"
+  },
+  "Data": {
+    "Name": "Nilesh",
+    "Email": "nil@gmail.com",
+    "password": 8765,
+    "Dob": "12-07-2002",
+    "pic": "C:\\Users\\Dell\\Pictures\\Screenshots\\m.png",
+    "address": "Sarasara Kandhi Kala badlapur",
+    "city": "Jaunpur",
+    "ucity": "Lucknow",
+    "upassword": 9876,
+    "upic": "C:\\Users\\Dell\\Pictures\\Screenshots\\y.png"
+  }
+}
+
